@@ -3,3 +3,6 @@ class test:
 
 class mehdi:
     pass
+
+class amme:
+    pass
