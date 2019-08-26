@@ -6,3 +6,7 @@ class mehdi:
 
 class amme:
     pass
+
+
+class ammed_amme:
+    pass
